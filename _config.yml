@@ -1,0 +1,45 @@
+creator: dennyrwa
+lang: id
+locale: id_ID
+themecolor: e73e4a
+company: klikada.com
+url: https://qr.klikada.com
+siteurl: https://qr.klikada.com
+icon: /favicon.ico
+logo: /images/nav-logo.webp
+alt-logo: Logo of qr.klikada.com
+twitter: https://twitter.com/
+facebook: https://business.facebook.com/
+instagram: https://www.instagram.com/
+youtube: 
+copyright: © Copyright <strong>bagusevitrans.com</strong>. <br>All Rights Reserved and All the trademarks are the property of their respective owners
+whatsapp-float-desktop: https://web.whatsapp.com/send?phone=6281357754513&text=Halo%20Admin%0ACV.%20BAGUS%20EVI%20TRANS%0ARental%20Mobil%20Surabaya%0Ahttps://bagusevitrans.com%0A%0A
+whatsapp-float-phone: https://api.whatsapp.com/send?text=Halo%20Admin%0ACV.%20BAGUS%20EVI%20TRANS%0ARental%20Mobil%20Surabaya%0Ahttps://bagusevitrans.com%0A%0A&phone=6281357754513
+whatsapp-api: https://api.whatsapp.com/send?text=CV.%20BAGUS%20EVI%20TRANS%0Ahttps://maps.app.goo.gl/oL3kvNSHnMPGTTrC9%0A%0A✅%20Nama%20Penyewa%20:%0A✅%20No%20HP%20:%0A✅%20Jenis%20kendaraan%20:%20%0A✅%20Tanggal%20Sewa%20:%0A✅%20Rute/Tujuan%20:%0A✅%20Jam%20:%0A✅%20Alamat%20Penjemputan%20:%0A✅%20Mohon%20transfer%20DP%20seikhlasnya%20di%20Rek%20325%200856%20015,%20BCA,%20An.%20Gunawan%0A%0ATerima%20kasih%20&phone=6281357754513
+exclude: [README.md]
+email: 
+streetAddress: Jalan Mayjend Sungkono III Perum Kutoanyar Permai Blok A No. 1
+postOfficeBoxNumber: 
+addressLocality: Tulungagung
+addressRegion: Jawa Timur
+postalCode: 61258
+addressCountry: Indonesia
+telephone-kantor: 
+telephone-detail-kantor: 
+telephone: 628223267100
+telephone-detail: +628-223-226-7100
+telephone2: 
+telephone-detail2: 
+telephone3: 
+telephone-detail3: 
+fb_app_id: 295931695673344
+DMCA: 9166aa62-b34d-46d9-b6a7-103f7eda92a6
+place_id : ChIJqSOkfO7j1y0RuIfBoI5-RDA
+id_pelacakan_ga: G-K7HJH1TRNY
+google-my-bussiness:
+apk: https://archive.org/download/com.bagusevitras.apps.v1.1/com.bagusevitras.apps.v1.1.apk
+permalink: pretty
+collections:
+  data-qr:
+    output: true
+    permalink: /:permalink/
