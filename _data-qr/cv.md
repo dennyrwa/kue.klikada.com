@@ -1,7 +1,7 @@
 ---
 language: id
 layout: urlforward
-permalink: cv
+permalink: /cv/
 forwardto: https://api.whatsapp.com/send?text=Halo%20Mas%0ASaya%20dapat%20info%20dari%0A%20%20%0Ahttps://www.klikada.com%0A%0A&phone=6282232267100
 link: 
 ---
