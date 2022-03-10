@@ -6,7 +6,7 @@
     <title>{{ page.title }}</title>
     <meta http-equiv="refresh" content="0; url={{ page.link }}">
     <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="https://www.klikada.com/klikada-logo-lingkaran.png">
+    <link rel="icon" type="image/png" href="{{ page.icon }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Finger+Paint&family=Kaushan+Script&display=swap" rel="stylesheet">
@@ -2317,7 +2317,7 @@
         // If the count down is over, write some text 
         if (distance < 0) {
             clearInterval(x);
-            document.getElementById("countdown").innerHTML = " Yeeeeee ";
+            document.getElementById("countdown").innerHTML = " Happy Yee ";
         }
     }, 1000);
     </script>
