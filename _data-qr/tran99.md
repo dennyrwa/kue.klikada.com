@@ -1,7 +1,7 @@
 ---
 language: id
 layout: urlforward
-icon: https://tran99.com/static/rental-mobil-surabaya-tran99-logo.png
+icon: https://cloud.klikada.com/image/tran99-icon.png
 title: Rental Mobil Surabaya Tran99
 description: Ini adalah link untuk memberikan rating Tran99.com di Google
 permalink: /tran99/

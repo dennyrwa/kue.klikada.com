@@ -1,7 +1,7 @@
 ---
 language: id
 layout: urlforward
-icon: https://cloud.klikada.com/image/denny-pp-klikada.jpg
+icon: https://cloud.klikada.com/image/denny-pp-klikada.png
 title: Resume Denny Rakhmad Widi Ashari
 description: Ini adalah link menuju ke WA masden secara langsung
 permalink: /cv/
